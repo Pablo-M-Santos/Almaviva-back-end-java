@@ -1,5 +1,8 @@
 # 🚀 Almaviva Back-End Bootcamp — Projetos e Desafios
 
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.oracle.com/)
+[![DIO](https://img.shields.io/badge/DIO-Bootcamp-blueviolet?style=for-the-badge)](https://www.dio.me/)
+
 Este repositório reúne todos os projetos desenvolvidos durante minha jornada no **bootcamp de Back-End Java**, com foco em desenvolvimento de APIs, Programação Orientada a Objetos (POO) e Qualidade de Software (QA).
 
 O objetivo é demonstrar, na prática, habilidades técnicas, organização de código e aplicação de boas práticas utilizadas no mercado.
